@@ -1,3 +1,4 @@
+<img width="1842" height="923" alt="Screenshot 2026-05-06 163824" src="https://github.com/user-attachments/assets/2ec5154f-8662-48eb-9236-55e2fc8eb4bf" />
 𝙎𝙩𝙞𝙡𝙡 𝙛𝙚𝙚𝙡 𝙡𝙞𝙠𝙚 𝙖𝙣𝙖𝙡𝙮𝙯𝙞𝙣𝙜 𝙤𝙘𝙚𝙖𝙣 𝙘𝙤𝙡𝙤𝙪𝙧 𝙙𝙖𝙩𝙖 𝙡𝙞𝙠𝙚 𝘾𝙝𝙡𝙤𝙧𝙤𝙥𝙝𝙮𝙡𝙡-𝙖 𝙞𝙨 𝙢𝙤𝙧𝙚 𝙘𝙤𝙢𝙥𝙡𝙚𝙭 𝙩𝙝𝙖𝙣 𝙞𝙩 𝙨𝙝𝙤𝙪𝙡𝙙 𝙗𝙚?
 
 🔸 I built this dashboard as a personal exploration to simplify how satellite-derived Chlorophyll-a data can be accessed, visualized, and explored.
