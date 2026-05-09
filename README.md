@@ -5,7 +5,10 @@
 𝗧𝗵𝗲 𝗰𝗵𝗮𝗹𝗹𝗲𝗻𝗴𝗲:
 🔸 Ocean colour analysis often involves multiple steps, data access, preprocessing, and switching between tools.
 
+
 <img width="1842" height="923" alt="Screenshot 2026-05-06 163824" src="https://github.com/user-attachments/assets/2ec5154f-8662-48eb-9236-55e2fc8eb4bf" />
+
+
 
 𝗪𝗵𝗮𝘁 𝘁𝗵𝗶𝘀 𝗱𝗮𝘀𝗵𝗯𝗼𝗮𝗿𝗱 𝗰𝗮𝗻 𝗱𝗼:
 • Directly fetch ocean colour data via THREDDS / NCSS (no manual downloads)
